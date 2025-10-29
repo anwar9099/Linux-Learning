@@ -3,7 +3,7 @@
 ## Linux IPTables Lab Notes
 
 This is a personal walkthrough and notes from the [KodeKloud Free Lab: Linux IPTables](https://kodekloud.com/free-labs/linux/iptables).  
-The goal was to practice basic firewall setup and understand how to control network traffic between servers using `iptables`.
+The goal was to practice firewall setup for a two-tier application and understand how to control network traffic between servers using `iptables`.
 
 ---
 
